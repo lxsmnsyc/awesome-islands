@@ -19,6 +19,8 @@
 - [Elder.js](https://github.com/Elderjs/elderjs)
 - [Rigidity](https://github.com/lxsmnsyc/rigidity)
 - [Tropical.js](https://github.com/bensmithett/tropical)
+- [Nano JSX](https://nanojsx.io/)
+- [Capri](https://capri.build/)
 
 ## Articles
 
