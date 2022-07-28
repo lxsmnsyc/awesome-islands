@@ -16,7 +16,9 @@
 - [Slinkity](https://slinkity.dev/)
 - [Fresh](https://fresh.deno.dev/)
 - [Marko](https://markojs.com/)
+- [Elder.js](https://github.com/Elderjs/elderjs)
 - [Rigidity](https://github.com/lxsmnsyc/rigidity)
+- [Tropical.js](https://github.com/bensmithett/tropical)
 
 ## Articles
 
@@ -29,6 +31,7 @@
 - ["The case of partial hydration (with Next and Preact)" by Lucas Bombach](https://medium.com/@luke_schmuke/how-we-achieved-the-best-web-performance-with-partial-hydration-20fab9c808d5)
 - ["Why Efficient Hydration in JavaScript Frameworks is so Challenging" by Ryan Carniato](https://dev.to/this-is-learning/why-efficient-hydration-in-javascript-frameworks-is-so-challenging-1ca3)
 - ["Partial hydration in Preact" by James Hill](https://www.jameshill.dev/articles/partial-hydration/)
+- ["Maybe you don’t need that SPA" by Michael Rawlings](https://medium.com/@mlrawlings/maybe-you-dont-need-that-spa-f2c659bc7fec)
 
 ## Videos
 
