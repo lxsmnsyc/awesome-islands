@@ -21,6 +21,7 @@
 - [Tropical.js](https://github.com/bensmithett/tropical)
 - [Nano JSX](https://nanojsx.io/)
 - [Capri](https://capri.build/)
+- [11ty `is-land`](https://github.com/11ty/is-land)
 
 ## Articles
 
