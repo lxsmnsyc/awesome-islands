@@ -10,18 +10,37 @@
 
 ## Frameworks
 
+### Standalone/Metaframework
+
 - [Astro](https://astro.build/)
 - [Iles](https://iles.pages.dev/)
 - [Qwik](https://qwik.builder.io/)
-- [Slinkity](https://slinkity.dev/)
-- [Fresh](https://fresh.deno.dev/)
 - [Marko](https://markojs.com/)
-- [Elder.js](https://github.com/Elderjs/elderjs)
-- [Rigidity](https://github.com/lxsmnsyc/rigidity)
-- [Tropical.js](https://github.com/bensmithett/tropical)
+- [Slinkity](https://slinkity.dev/)
 - [Nano JSX](https://nanojsx.io/)
-- [Capri](https://capri.build/)
 - [11ty `is-land`](https://github.com/11ty/is-land)
+
+### Template
+
+- [Tropical.js](https://github.com/bensmithett/tropical)
+
+### Preact
+
+- [Fresh](https://fresh.deno.dev/)
+- [preact-habitat](https://github.com/zouhir/preact-habitat)
+- [preact-island](https://github.com/mwood23/preact-island)
+
+### SolidJS
+
+- [Rigidity](https://github.com/lxsmnsyc/rigidity)
+
+### Svelte
+
+- [Elder.js](https://github.com/Elderjs/elderjs)
+
+### React
+
+- [Capri](https://capri.build/)
 
 ## Articles
 
