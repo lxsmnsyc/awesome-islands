@@ -20,10 +20,6 @@
 - [Nano JSX](https://nanojsx.io/)
 - [11ty `is-land`](https://github.com/11ty/is-land)
 
-### Template
-
-- [Tropical.js](https://github.com/bensmithett/tropical)
-
 ### Preact
 
 - [Fresh](https://fresh.deno.dev/)
@@ -41,6 +37,7 @@
 ### React
 
 - [Capri](https://capri.build/)
+- [Tropical.js](https://github.com/bensmithett/tropical)
 
 ## Articles
 
@@ -54,6 +51,7 @@
 - ["Why Efficient Hydration in JavaScript Frameworks is so Challenging" by Ryan Carniato](https://dev.to/this-is-learning/why-efficient-hydration-in-javascript-frameworks-is-so-challenging-1ca3)
 - ["Partial hydration in Preact" by James Hill](https://www.jameshill.dev/articles/partial-hydration/)
 - ["Maybe you don’t need that SPA" by Michael Rawlings](https://medium.com/@mlrawlings/maybe-you-dont-need-that-spa-f2c659bc7fec)
+- ["React Islands on The Guardian" by the Guardian](https://www.theguardian.com/info/2022/mar/25/react-islands-on-theguardiancom)
 
 ## Videos
 
