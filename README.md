@@ -25,6 +25,7 @@
 - [Fresh](https://fresh.deno.dev/)
 - [preact-habitat](https://github.com/zouhir/preact-habitat)
 - [preact-island](https://github.com/mwood23/preact-island)
+- [microsite](https://github.com/natemoo-re/microsite)
 
 ### SolidJS
 
