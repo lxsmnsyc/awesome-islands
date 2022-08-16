@@ -39,6 +39,7 @@
 
 - [Capri](https://capri.build/)
 - [Tropical.js](https://github.com/bensmithett/tropical)
+- [next-super-performance](https://github.com/LukasBombach/next-super-performance)
 
 ## Articles
 
