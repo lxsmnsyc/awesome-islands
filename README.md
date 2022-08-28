@@ -56,6 +56,7 @@
 - ["Islands of Interactivity — What are They and Why is Fresh using them?" by Fernando Doglio](https://blog.bitsrc.io/islands-of-interactivity-what-are-they-and-why-is-fresh-using-them-1806fc67a07)
 - ["React Islands on The Guardian" by the Guardian](https://www.theguardian.com/info/2022/mar/25/react-islands-on-theguardiancom)
 - ["How Islands Architecture Can Help to Scale Design" by Rob Levin](https://developtodesign.com/how-islands-architecture-can-help-to-scale-design)
+- ["Resumability, WTF?"](https://dev.to/this-is-learning/resumability-wtf-2gcm)
 
 ## Videos
 
