@@ -29,7 +29,8 @@
 
 ### SolidJS
 
-- [Rigidity](https://github.com/lxsmnsyc/rigidity)
+- [Solid Start](https://github.com/solidjs/solid-start)
+- [isolid](https://github.com/lxsmnsyc/isolid)
 
 ### Svelte
 
