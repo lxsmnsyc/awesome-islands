@@ -19,6 +19,7 @@
 - [Slinkity](https://slinkity.dev/)
 - [Nano JSX](https://nanojsx.io/)
 - [11ty `is-land`](https://github.com/11ty/is-land)
+- [Capri](https://capri.build/)
 
 ### Preact
 
@@ -38,7 +39,6 @@
 
 ### React
 
-- [Capri](https://capri.build/)
 - [Tropical.js](https://github.com/bensmithett/tropical)
 - [next-super-performance](https://github.com/LukasBombach/next-super-performance)
 
