@@ -58,6 +58,7 @@
 - ["React Islands on The Guardian" by the Guardian](https://www.theguardian.com/info/2022/mar/25/react-islands-on-theguardiancom)
 - ["How Islands Architecture Can Help to Scale Design" by Rob Levin](https://developtodesign.com/how-islands-architecture-can-help-to-scale-design)
 - ["Resumability, WTF?"](https://dev.to/this-is-learning/resumability-wtf-2gcm)
+- ["Islands & Server Components & Resumability, Oh My!"](https://dev.to/this-is-learning/islands-server-components-resumability-oh-my-319d)
 
 ## Videos
 
