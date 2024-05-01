@@ -42,6 +42,10 @@
 - [Tropical.js](https://github.com/bensmithett/tropical)
 - [next-super-performance](https://github.com/LukasBombach/next-super-performance)
 
+### Vue
+
+- [Nuxt Islands](https://github.com/nuxt/nuxt)
+
 ## Articles
 
 - ["Islands Architecture" by pattern.dev](https://www.patterns.dev/posts/islands-architecture/)
